@@ -28,5 +28,9 @@ git remote -v = lista os repositório remotos já cadastrados
 
 git push origin master
 
+git checkout + nome da branch = Altera a branch de trabalho
+
+git checkout -b + nome da branch = cria uma branch nova e mudar para ela
+
 ## Links Uteis 
 [Comandos Basicos Git/GitHub] (https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
