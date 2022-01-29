@@ -22,7 +22,7 @@ git config --global user.name " " =
 
 git config --
 
-git remote add origen "link copiado do DEADME.md do GitHub" = especifica a origem do repositório remoto, para ser enviado o repositório local
+git remote add origin "link copiado do DEADME.md do GitHub" = especifica a origem do repositório remoto, para ser enviado o repositório local
 
 git remote -v = lista os repositório remotos já cadastrados
 
