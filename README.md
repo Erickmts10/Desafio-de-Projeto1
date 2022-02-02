@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # Desafio-de-Projeto1
 Praticando a sincronização/comando com Git GitHub
 
 
 
-teste
-
-=======
 # Desafio de Código - Git/GitHub Pull / Push :keyboard:
 
 Comandos básicos Git/GitHub
@@ -41,8 +37,12 @@ git checkout + nome da branch = Altera a branch de trabalho
 
 git checkout -b + nome da branch = cria uma branch nova e mudar para ela
 
+git merge origin + branch = comando utilizado para mescla o repositório b + A
+
+git pull origin master --allow-unrelated-histories = comando utilizado para forçar o merge do repositório, b para a, com histórico de commits, branches, etc diferentes da main
+
+
+
 ## Links Uteis 
 [Comandos Basicos Git/GitHub] (https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
 
-teste
->>>>>>> 553203e1c61872de268b95e257130555c7a1ba8d
