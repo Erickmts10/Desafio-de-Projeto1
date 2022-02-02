@@ -1,4 +1,4 @@
-# Desafio-de-Projeto1
+# Desafio-de-DIO-Projeto1
 Praticando a sincronização/comando com Git GitHub
 
 
